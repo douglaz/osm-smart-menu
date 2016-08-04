@@ -4,8 +4,8 @@ OpenStreetMap helper extension compatible with the [Firefox](https://addons.mozi
 ## Contributing
 
 ### Translations
-Add a file called `messages.json` in the folder `_locales/xy`, where xy is your languages' code.
-You just need to translate the sentences that are different from the default values (in this case, values from the english translation).
+Add a file called `messages.json` in the folder `_locales/xy/`, where `xy` is your languages' code.
+You just need to translate the messages that are different from the default values (in this case, values from the english translation).
 Feel free to create regional tranlations adding the country code after the language code.
 See [Chrome's documentation](https://developer.chrome.com/webstore/i18n) for details.
 
