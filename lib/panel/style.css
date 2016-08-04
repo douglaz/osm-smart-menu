@@ -1,11 +1,14 @@
 html, body {
   margin: 0;
-  white-space: nowrap;
   overflow-x: hidden;
 
 /* needed until https://bugzilla.mozilla.org/show_bug.cgi?id=1215025 */
   min-height: 250px;
   min-width: 250px;
+}
+
+.panel {
+  white-space: nowrap;
 }
 
 a {

@@ -16,6 +16,21 @@
     "description": "Shown in panel popup shortly before menu appears"
   },
 
+  "unrecognizedSiteError": {
+    "message": "This site was not recognized.",
+    "description": "Error message shown when the current site isn't recognized and it wasn't possible to retrieve any data from it."
+  },
+
+  "noValuesRetrievedError": {
+    "message": "It wasn't possible to retrieve any data from the current page. If it's a map, move around a bit and try again.",
+    "description": "Error message shown when the current site is known, but it wasn't possible to retrieve any data."
+  },
+
+  "noMatchingSitesFoundError": {
+    "message": "TODO",
+    "description": "TODO"
+  },
+
   "site_openstreetmap": {
     "message": "OpenStreetMap"
   },
