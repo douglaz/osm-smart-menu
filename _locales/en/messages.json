@@ -17,7 +17,7 @@
   },
 
   "unrecognizedSiteError": {
-    "message": "This site was not recognized.",
+    "message": "This site was not recognized. Try navigating from another website such as https://www.openstreetmap.org/#map=10/-26.2657/-48.8164",
     "description": "Error message shown when the current site isn't recognized and it wasn't possible to retrieve any data from it."
   },
 
